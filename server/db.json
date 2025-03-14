@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "id": "1741937711005",
+      "name": "kaushik",
+      "email": "kaushikrawalwork@gmail.com",
+      "dob": "2025-03-13",
+      "password": "$2b$10$ctFsf3vEwtcMfAJrBy9bkuUvojwsdn.yavt1ByZRO39q7/U8selfW",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1741937935366",
+      "name": "kaushik",
+      "email": "kaushikrawal4365@gmail.com",
+      "dob": "2025-03-13",
+      "password": "$2b$10$qlKcgFv6QXdZATPR1BlQ2OaNb6Nb2ITnLhbJ45xJc7syC88EgAWI6",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1741940282059",
+      "name": "jay",
+      "email": "jayanth09@gmail.com",
+      "dob": "2001-12-12",
+      "password": "$2b$10$bigiS4oRxmjXYBgUXY8YyOwhSbXiIlIP6J85udmYdQyylMrfWskeu",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741941127285",
+      "name": "rish",
+      "email": "rish@gmail.com",
+      "dob": "2004-07-07",
+      "password": "$2b$10$8zY4TAU/U/eLX3t1fC0Gde1m9whWBBSNejR3BIPWhVcEFF4JqPgUe",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741941209119",
+      "name": "rish",
+      "email": "kaushikrawal1211@gmail.com",
+      "dob": "2025-03-13",
+      "password": "$2b$10$sHGZJAuOzsHMV88I/ocTaudPnwV9TSqcSqYkp9Hlp8/ad86u92Dcy",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741941304079",
+      "name": "Sunny",
+      "email": "sunny123@gmail.com",
+      "dob": "2003-02-15",
+      "password": "$2b$10$6AhOWF0pERvKG0loT1q7Uu1qs6NUsZrVH/zNterZC/D7IVYBR2qwK",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1741942107079",
+      "name": "shah",
+      "email": "hehe@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$bGTDLs92Pck.sG1hRSizauI9K9C0zznyhKMTA0IKjBhXDjVq8qjhC",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741943859447",
+      "name": "jsjs",
+      "email": "js@ggmail.com",
+      "dob": "1111-11-11",
+      "password": "$2b$10$m7VkeOHb.bNtWVn4jCINC.ZYyTJQYnJqqQlT56IFNxReLpyxyKxwW",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1741945057562",
+      "name": "shib",
+      "email": "shib@gmail.com",
+      "dob": "2003-12-12",
+      "password": "$2b$10$DTP04dcgzCX7gSRg6wiIjesFG9Gz9nzdc3XL9xS49CQzwg9zaOzHG",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741945104248",
+      "name": "hehe",
+      "email": "k@gmail.com",
+      "dob": "2003-12-12",
+      "password": "$2b$10$ryWSshbrAUYmNhOD9VbaE.UG2UArtoMDB35P0omggdYXOdH7OnPxe",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741946063648",
+      "name": "shsh",
+      "email": "sh@gmail.com",
+      "dob": "2003-12-12",
+      "password": "$2b$10$uXJxNCDzxsJNRu3dCmNf5u6g4mMJDlWNRhiAYxBfRiCHZnbuSm9wm",
+      "role": "Seeker"
+    },
+    {
+      "id": "1741951788921",
+      "name": "jay",
+      "email": "kaushik@gmail.com",
+      "dob": "0012-12-12",
+      "password": "$2b$10$isisaAGeRkY4dosHwoHT5OY9ZPa08mqHB7Zwn8pbmINFP8f5wdVhm",
+      "role": "Investor"
+    },
+    {
+      "id": "1741952614621",
+      "name": "rishi",
+      "email": "rec@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$9LC/M3mdpILspwfPHEbz9ur5VuWHSOUOJIgT9LWqeQ70wpSxiJgrW",
+      "role": "Recruiter"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1741943975199",
+      "title": "Frontend developer",
+      "description": "To design clean UI and best designs with animations",
+      "requirements": "HTML, CSS, JS, React JS",
+      "recruiterId": "1741943859447",
+      "applications": [],
+      "postedDate": "2025-03-14T09:19:35.199Z"
+    },
+    {
+      "id": "1741952734484",
+      "title": "HR",
+      "description": "Hire young talent",
+      "requirements": "Communication skills",
+      "recruiterId": "1741952614621",
+      "applications": [],
+      "postedDate": "2025-03-14T11:45:34.484Z"
+    },
+    {
+      "id": "1741952825208",
+      "title": "Trainee Engineer",
+      "description": "Coach young engineers for being fit in their respective jobs",
+      "requirements": "Technical skills, communication",
+      "recruiterId": "1741952614621",
+      "applications": [],
+      "postedDate": "2025-03-14T11:47:05.208Z"
+    }
+  ],
+  "freelancing": [
+    {
+      "id": "1741952928228",
+      "title": "Website Development",
+      "description": "Full stack",
+      "skills": "React js, Node js",
+      "recruiterId": "1741952614621",
+      "applications": [],
+      "postedDate": "2025-03-14T11:48:48.228Z"
+    },
+    {
+      "id": "1741952985800",
+      "title": "Poster Making ",
+      "description": "Creating beautiful and attractive posters ",
+      "skills": "Canva",
+      "recruiterId": "1741952614621",
+      "applications": [],
+      "postedDate": "2025-03-14T11:49:45.800Z"
+    },
+    {
+      "id": "1741953019124",
+      "title": "Video Editing ",
+      "description": "Create Attractive Videos ",
+      "skills": "Video editing ",
+      "recruiterId": "1741952614621",
+      "applications": [],
+      "postedDate": "2025-03-14T11:50:19.124Z"
+    }
+  ],
+  "startup": []
+}
