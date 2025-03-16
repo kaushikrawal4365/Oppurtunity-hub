@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Roadmap - Opportunity Hub</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/services.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="main-content">
+        <div class="page-header">
+            <i class="fas fa-road"></i>
+            <h1>Skills Roadmap</h1>
+            <p>Get a personalized roadmap for your dream job.</p>
+        </div>
+        <div class="form-container">
+            <form id="roadmap-form">
+                <input type="text" id="job-title" placeholder="Enter job title (e.g., Software Engineer)" required>
+                <button type="submit">Get Roadmap</button>
+            </form>
+            <div id="roadmap-result"></div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/script.js"></script>
+    <script>
+        document.getElementById('roadmap-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const jobTitle = document.getElementById('job-title').value;
+            try {
+                const res = await fetch('http://localhost:5000/services/roadmap', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${localStorage.getItem('token')}`
+                    },
+                    body: JSON.stringify({ jobTitle })
+                });
+                const data = await res.json();
+                if (res.ok) {
+                    document.getElementById('roadmap-result').innerHTML = `
+                        <h3>${data.jobTitle}</h3>
+                        <p><strong>Skills:</strong> ${data.skills.join(', ')}</p>
+                        <p><strong>Roadmap:</strong></p>
+                        <ul>${data.roadmap.map(step => `<li>${step}</li>`).join('')}</ul>
+                    `;
+                } else {
+                    throw new Error(data.error || 'Failed to get roadmap');
+                }
+            } catch (error) {
+                document.getElementById('roadmap-result').innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        });
+    </script>
+</body>
+</html>

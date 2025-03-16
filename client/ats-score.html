@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATS Score Checker - Opportunity Hub</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/services.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="main-content">
+        <div class="page-header">
+            <i class="fas fa-file-alt"></i>
+            <h1>ATS Score Checker</h1>
+            <p>Upload your resume to get an ATS compatibility score.</p>
+        </div>
+        <div class="form-container">
+            <form id="ats-form">
+                <input type="file" id="resume" accept=".txt" required>
+                <button type="submit">Check ATS Score</button>
+            </form>
+            <div id="ats-result"></div>
+        </div>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/script.js"></script>
+    <script>
+        document.getElementById('ats-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const resume = document.getElementById('resume').files[0];
+            if (!resume) return;
+            const formData = new FormData();
+            formData.append('resume', resume);
+            try {
+                const res = await fetch('http://localhost:5000/services/ats-score', {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${localStorage.getItem('token')}` },
+                    body: formData
+                });
+                const data = await res.json();
+                if (res.ok) {
+                    document.getElementById('ats-result').innerHTML = `<p>${data.message}</p>`;
+                } else {
+                    throw new Error(data.error || 'Failed to get ATS score');
+                }
+            } catch (error) {
+                document.getElementById('ats-result').innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        });
+    </script>
+</body>
+</html>

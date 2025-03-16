@@ -1,108 +1,196 @@
 {
   "users": [
     {
-      "id": "1741937711005",
-      "name": "kaushik",
-      "email": "kaushikrawalwork@gmail.com",
-      "dob": "2025-03-13",
-      "password": "$2b$10$ctFsf3vEwtcMfAJrBy9bkuUvojwsdn.yavt1ByZRO39q7/U8selfW",
-      "role": "Recruiter"
-    },
-    {
-      "id": "1741937935366",
-      "name": "kaushik",
-      "email": "kaushikrawal4365@gmail.com",
-      "dob": "2025-03-13",
-      "password": "$2b$10$qlKcgFv6QXdZATPR1BlQ2OaNb6Nb2ITnLhbJ45xJc7syC88EgAWI6",
-      "role": "Recruiter"
-    },
-    {
-      "id": "1741940282059",
-      "name": "jay",
-      "email": "jayanth09@gmail.com",
-      "dob": "2001-12-12",
-      "password": "$2b$10$bigiS4oRxmjXYBgUXY8YyOwhSbXiIlIP6J85udmYdQyylMrfWskeu",
-      "role": "Seeker"
-    },
-    {
-      "id": "1741941127285",
-      "name": "rish",
-      "email": "rish@gmail.com",
-      "dob": "2004-07-07",
-      "password": "$2b$10$8zY4TAU/U/eLX3t1fC0Gde1m9whWBBSNejR3BIPWhVcEFF4JqPgUe",
-      "role": "Seeker"
-    },
-    {
-      "id": "1741941209119",
-      "name": "rish",
-      "email": "kaushikrawal1211@gmail.com",
-      "dob": "2025-03-13",
-      "password": "$2b$10$sHGZJAuOzsHMV88I/ocTaudPnwV9TSqcSqYkp9Hlp8/ad86u92Dcy",
-      "role": "Seeker"
-    },
-    {
-      "id": "1741941304079",
-      "name": "Sunny",
-      "email": "sunny123@gmail.com",
-      "dob": "2003-02-15",
-      "password": "$2b$10$6AhOWF0pERvKG0loT1q7Uu1qs6NUsZrVH/zNterZC/D7IVYBR2qwK",
-      "role": "Recruiter"
-    },
-    {
-      "id": "1741942107079",
-      "name": "shah",
-      "email": "hehe@gmail.com",
+      "id": "1742010790713",
+      "name": "rishav",
+      "email": "rishav@gmail.com",
       "dob": "1212-12-12",
-      "password": "$2b$10$bGTDLs92Pck.sG1hRSizauI9K9C0zznyhKMTA0IKjBhXDjVq8qjhC",
-      "role": "Seeker"
-    },
-    {
-      "id": "1741943859447",
-      "name": "jsjs",
-      "email": "js@ggmail.com",
-      "dob": "1111-11-11",
-      "password": "$2b$10$m7VkeOHb.bNtWVn4jCINC.ZYyTJQYnJqqQlT56IFNxReLpyxyKxwW",
+      "password": "$2b$10$GQxP/kwCuAEvQKEZD/WDPu1h61WnENmA9mVAXLr9z.SYOietJ5OqK",
       "role": "Recruiter"
     },
     {
-      "id": "1741945057562",
-      "name": "shib",
-      "email": "shib@gmail.com",
-      "dob": "2003-12-12",
-      "password": "$2b$10$DTP04dcgzCX7gSRg6wiIjesFG9Gz9nzdc3XL9xS49CQzwg9zaOzHG",
+      "id": "1742011495509",
+      "name": "Kaushik",
+      "email": "kaushik.rawal@bizniti.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$iwBEMVN.OlfcjBV6L8C.m.b4kPeicnpzxAJ/8rW0AWzhMGnrxv9Tm",
       "role": "Seeker"
     },
     {
-      "id": "1741945104248",
-      "name": "hehe",
-      "email": "k@gmail.com",
-      "dob": "2003-12-12",
-      "password": "$2b$10$ryWSshbrAUYmNhOD9VbaE.UG2UArtoMDB35P0omggdYXOdH7OnPxe",
+      "id": "1742011575014",
+      "name": "Sunny",
+      "email": "sa@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$enw8qaiULXZXeVE0m/xop.DUqeXf0INE7j.GjEwPrJTtx3KKD7302",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1742011699513",
+      "name": "Pavana",
+      "email": "pavana@gmail.com",
+      "dob": "2004-04-04",
+      "password": "$2b$10$MMcJysPC.N4G3xkhkLwBHOcmZHzxSv/jD4cmNSmLTBT1Fyh8z3JUW",
       "role": "Seeker"
     },
     {
-      "id": "1741946063648",
-      "name": "shsh",
-      "email": "sh@gmail.com",
-      "dob": "2003-12-12",
-      "password": "$2b$10$uXJxNCDzxsJNRu3dCmNf5u6g4mMJDlWNRhiAYxBfRiCHZnbuSm9wm",
-      "role": "Seeker"
-    },
-    {
-      "id": "1741951788921",
+      "id": "1742012876517",
       "name": "jay",
-      "email": "kaushik@gmail.com",
+      "email": "jd@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$DmwQJIOFl90yFX8Tzw.gfulwCnXu/y5nmZ6a/RaQRwIuDFj1ytVEi",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742012991384",
+      "name": "saek040@gmail.com",
+      "email": "saek040@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$cGBa9DI.h.RAFjNfnU0jc.PgTLhNmY.Sp2li2N6kEz6ZQ62psIR/i",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1742013257247",
+      "name": "shjk",
+      "email": "shjk@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2b$10$5xDNlW54Dd9p88qzCYlVR.RxlM6yLtCQF6SRdByBnWC3fAaBRCJEK",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742014759448",
+      "name": "g@gmail.com",
+      "email": "g@gmail.com",
+      "dob": "0012-02-12",
+      "password": "$2b$10$tZi37.6eH5GaC4kCLDejKOf3C6A.V4nbRhii3fRvHJ57QIeh6mmSu",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742015299853",
+      "name": "r",
+      "email": "ri@gmail.com",
       "dob": "0012-12-12",
-      "password": "$2b$10$isisaAGeRkY4dosHwoHT5OY9ZPa08mqHB7Zwn8pbmINFP8f5wdVhm",
+      "password": "$2b$10$PVZ7g9Jh5QUDZlWs6AMJ.ueetmiWVKaB0prRA5WBHNjTRynGI4u76",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742015566619",
+      "name": "kaushik@gmail.com",
+      "email": "kaushik@gmail.com",
+      "dob": "0065-05-04",
+      "password": "$2b$10$1O3lybhGVVYw.9O5xQ0NiezEFa/De1S.4aXp.jFO54F5TAF/1QM4.",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742020472574",
+      "name": "heh@gmail.com",
+      "email": "heh@gmail.com",
+      "dob": "0012-12-12",
+      "password": "$2a$10$9pOpPll9eq4hLhj2bVyM0..xGBvS/KRSB.ZSVsGDoo0CssBK2RZhu",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1742020524326",
+      "name": "heheh@gmail.com",
+      "email": "heheh@gmail.com",
+      "dob": "0012-12-12",
+      "password": "$2a$10$VnkhF36tHdWN7WKBGLR50OSNERaNj4jJSUaUG5Lx7sxoLhWZ70pBC",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742021103601",
+      "name": "Jayanth",
+      "email": "jayanth56@gmail.com",
+      "dob": "2001-12-09",
+      "password": "$2a$10$l3MKlllwwNdcDBsJfVpBnuYdpQUa0rvUby5t9SztbZXmlejvoPiI2",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1742021693696",
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "dob": "0012-12-12",
+      "password": "$2a$10$Q9yC8u7X.D3TRHAsRqsDveKXJSBMKRB/rucSOv5SPf0bPb7okBldC",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742028573275",
+      "name": "Pavana",
+      "email": "pavanas@gmail.com",
+      "dob": "2004-04-04",
+      "password": "$2a$10$0XNa/rL9Bg1IKqFxZv7PuOwNj0uEwZdAODdU4S/HoqVNXKlRXnnGi",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742028754642",
+      "name": "kane",
+      "email": "kane@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2a$10$Fadabs.hHddl57zw/B5JvuqBkC5ZTH1yJ/On09AXcslMR6pQ0pl.y",
       "role": "Investor"
     },
     {
-      "id": "1741952614621",
-      "name": "rishi",
-      "email": "rec@gmail.com",
+      "id": "1742033879099",
+      "name": "Hitesh",
+      "email": "hitesh@gmail.com",
+      "dob": "0012-12-12",
+      "password": "$2a$10$DqzKZzG/8QQKvTVPbjdkwe45e.vn7FkXlVFssISWkWHncBerv2Sym",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742034036224",
+      "name": "JAKE",
+      "email": "JAKE@GMAIL.COM",
       "dob": "1212-12-12",
-      "password": "$2b$10$9LC/M3mdpILspwfPHEbz9ur5VuWHSOUOJIgT9LWqeQ70wpSxiJgrW",
+      "password": "$2a$10$Tl2kxpZsywi7PuS24Nii3O45c3KAwDUu0/arX07ZT1FiKgyNqU0om",
+      "role": "Investor"
+    },
+    {
+      "id": "1742034474799",
+      "name": "REC",
+      "email": "REC@GMAIL.COM",
+      "dob": "1212-12-12",
+      "password": "$2a$10$iTC9qv.PLxzkRggAh7M9EuFJhPQvs5Bpjot4u8DnWJaFJH3UkbGpK",
       "role": "Recruiter"
+    },
+    {
+      "id": "1742038589435",
+      "name": "jay",
+      "email": "jayy@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2a$10$8lmN1kmVSqNd1.Geu50hYeLKr7O7EiRNCOdJK6HUlUBeLwSUsOMoW",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1742039434838",
+      "name": "kr@gmail.com",
+      "email": "kr@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2a$10$NE2Zu5BY.U2X/Mrxauj6fekq3JS8DQs8fXhU0dT0vmMiMzkC0.IOW",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742040349335",
+      "name": "jaya",
+      "email": "jaya@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2a$10$dBe4APkV4tBUG.hBe83BD.6sDjNn0N2BOTPFQwToitBbG2zd3BXMu",
+      "role": "Seeker"
+    },
+    {
+      "id": "1742040403458",
+      "name": "Sunny",
+      "email": "sunny@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2a$10$iilpQBBNWP6n.4qhQnWGPe4xkZ121E0wdMqboZX9.FiHZJk1odbOu",
+      "role": "Recruiter"
+    },
+    {
+      "id": "1742040440298",
+      "name": "Rishav",
+      "email": "rishavg@gmail.com",
+      "dob": "1212-12-12",
+      "password": "$2a$10$5wHJhhOqGU0zwpYYw.mf/.kdjmDXWyki4eA0nsuc9QRmwg4jAiVuC",
+      "role": "Investor"
     }
   ],
   "jobs": [
@@ -113,6 +201,7 @@
       "requirements": "HTML, CSS, JS, React JS",
       "recruiterId": "1741943859447",
       "applications": [],
+      "questions": [],
       "postedDate": "2025-03-14T09:19:35.199Z"
     },
     {
@@ -122,6 +211,7 @@
       "requirements": "Communication skills",
       "recruiterId": "1741952614621",
       "applications": [],
+      "questions": [],
       "postedDate": "2025-03-14T11:45:34.484Z"
     },
     {
@@ -131,7 +221,33 @@
       "requirements": "Technical skills, communication",
       "recruiterId": "1741952614621",
       "applications": [],
+      "questions": [],
       "postedDate": "2025-03-14T11:47:05.208Z"
+    },
+    {
+      "id": "1742013106712",
+      "title": "Graphic Designer",
+      "description": "Beautiful UI design",
+      "requirements": "canva",
+      "questions": [
+        "What is the best tool to learn GD",
+        "How are you?"
+      ],
+      "recruiterId": "1742012991384",
+      "applications": [],
+      "postedDate": "2025-03-15T04:31:46.712Z"
+    },
+    {
+      "id": "1742023530492",
+      "title": "Full stack developer",
+      "description": "th",
+      "requirements": "HTML, CSS, JS, React JS",
+      "questions": [
+        "tjtnh"
+      ],
+      "recruiterId": "1742021103601",
+      "applications": [],
+      "postedDate": "2025-03-15T07:25:30.492Z"
     }
   ],
   "freelancing": [
@@ -141,27 +257,220 @@
       "description": "Full stack",
       "skills": "React js, Node js",
       "recruiterId": "1741952614621",
-      "applications": [],
+      "applications": [
+        "1742012918331",
+        "1742013402411",
+        "1742014053893",
+        "1742014174489",
+        "1742014277855",
+        "1742014826082",
+        "1742020560286",
+        "1742021201027",
+        "1742021801088",
+        "1742039457184"
+      ],
+      "questions": [],
       "postedDate": "2025-03-14T11:48:48.228Z"
     },
     {
       "id": "1741952985800",
-      "title": "Poster Making ",
-      "description": "Creating beautiful and attractive posters ",
+      "title": "Poster Making",
+      "description": "Creating beautiful and attractive posters",
       "skills": "Canva",
       "recruiterId": "1741952614621",
-      "applications": [],
+      "applications": [
+        "1742033894297"
+      ],
+      "questions": [],
       "postedDate": "2025-03-14T11:49:45.800Z"
     },
     {
       "id": "1741953019124",
-      "title": "Video Editing ",
-      "description": "Create Attractive Videos ",
-      "skills": "Video editing ",
+      "title": "Video Editing",
+      "description": "Create Attractive Videos",
+      "skills": "Video editing",
       "recruiterId": "1741952614621",
       "applications": [],
+      "questions": [],
       "postedDate": "2025-03-14T11:50:19.124Z"
+    },
+    {
+      "id": "1742011456316",
+      "title": "Website Development",
+      "description": "hehe",
+      "skills": "React js, Node js",
+      "questions": [],
+      "recruiterId": "1742010790713",
+      "applications": [],
+      "postedDate": "2025-03-15T04:04:16.316Z"
     }
   ],
-  "startup": []
+  "startup": [
+    {
+      "id": "1742028696495",
+      "name": "Kaushik",
+      "topicName": "Instagram",
+      "briefDescription": "A photo-sharing app acquired by Facebook",
+      "posterId": "1742028573275",
+      "postedDate": "2025-03-15T08:51:36.495Z"
+    },
+    {
+      "id": "1742030545552",
+      "name": "Jayanth",
+      "topicName": "Decobox",
+      "briefDescription": "To watch movie",
+      "posterId": "1742028754642",
+      "postedDate": "2025-03-15T09:22:25.552Z"
+    },
+    {
+      "id": "1742038759345",
+      "name": "Jayanth",
+      "topicName": "Decobox",
+      "briefDescription": "movie",
+      "posterId": "1742038589435",
+      "postedDate": "2025-03-15T11:39:19.345Z"
+    },
+    {
+      "id": "1742040936311",
+      "name": "Om",
+      "topicName": "Industrial waste trading",
+      "briefDescription": "Waste trading between 2 or more industries",
+      "posterId": "1742040440298",
+      "postedDate": "2025-03-15T12:15:36.311Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "1742012918331",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742012876517",
+      "name": "",
+      "dob": "",
+      "skills": "React JS",
+      "email": "",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T04:28:38.331Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742013402411",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742013257247",
+      "name": "",
+      "dob": "",
+      "skills": "React JS",
+      "email": "",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T04:36:42.411Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742014053893",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742013257247",
+      "name": "",
+      "dob": "",
+      "skills": "React JS",
+      "email": "",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T04:47:33.893Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742014174489",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742013257247",
+      "name": "",
+      "dob": "",
+      "skills": "React JS",
+      "email": "",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T04:49:34.489Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742014277855",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742013257247",
+      "name": "",
+      "dob": "",
+      "skills": "canva",
+      "email": "",
+      "phone": "456123789",
+      "appliedDate": "2025-03-15T04:51:17.855Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742014826082",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742014759448",
+      "name": "Kaushik Rawal",
+      "dob": "1212-12-12",
+      "skills": "React JS",
+      "email": "kaushik.rawal@bizniti.com",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T05:00:26.082Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742020560286",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742020524326",
+      "name": "heheh@gmail.com",
+      "dob": "0012-12-12",
+      "skills": "React JS",
+      "email": "heheh@gmail.com",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T06:36:00.286Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742021201027",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742020524326",
+      "name": "heheh@gmail.com",
+      "dob": "0012-12-12",
+      "skills": "canva",
+      "email": "heheh@gmail.com",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T06:46:41.027Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742021801088",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742021693696",
+      "name": "jay",
+      "dob": "0012-12-12",
+      "skills": "React JS",
+      "email": "jay@gmail.com",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T06:56:41.088Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742033894297",
+      "freelancingId": "1741952985800",
+      "seekerId": "1742033879099",
+      "name": "Hitesh",
+      "dob": "0012-12-12",
+      "skills": "React JS",
+      "email": "hitesh@gmail.com",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T10:18:14.297Z",
+      "status": "pending"
+    },
+    {
+      "id": "1742039457184",
+      "freelancingId": "1741952928228",
+      "seekerId": "1742039434838",
+      "name": "kr@gmail.com",
+      "dob": "1212-12-12",
+      "skills": "React JS",
+      "email": "kr@gmail.com",
+      "phone": "07892473384",
+      "appliedDate": "2025-03-15T11:50:57.184Z",
+      "status": "pending"
+    }
+  ]
 }
